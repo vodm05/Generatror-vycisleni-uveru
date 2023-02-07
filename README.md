@@ -1,4 +1,4 @@
-# Generatror-vycisleni-uveru
+# Generatror-vycisleni-uveru - prostřednictvím jazyka Python
 
 Tento kód slouží pro účely vyčíslení úvěru k určitému datu. Proces je nastavený tak, že uživatel nahraje splátkový kalendář, zadá období počtu měsíců k předčasnému splacení úvěru a navazující období počtu měsíců k předčasnému splacení, vybere datum, ke kterému chce vytvořit vyčíslení a vybere z nabídky společnost, které se týká vyčíslení (na základě výběru se doplňují údaje do samotného dokumentu, jako je hlavička, číslo smlouvy atd.).
 
