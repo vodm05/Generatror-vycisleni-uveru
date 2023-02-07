@@ -1,0 +1,1 @@
+# Generatror-vycisleni-uveru
